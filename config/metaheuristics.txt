@@ -1,0 +1,8 @@
+pheromone 1
+taskLength 1
+processor 1
+decayParameter 0.0
+maxIteration 20
+deltaIterationAging 40
+numAnts 4
+numBestAnts 1
